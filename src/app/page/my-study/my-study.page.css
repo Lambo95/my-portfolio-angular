@@ -1,0 +1,22 @@
+.study-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: url(https://genoacfc.it/wp-content/uploads/2020/01/placeholder-3.jpg?id=36356);
+  background-repeat: repeat;
+  color: white;
+}
+
+li {
+  margin-bottom: 2rem;
+  list-style: none;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  line-height: 1.6;
+}
